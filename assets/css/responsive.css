@@ -1,0 +1,369 @@
+@media (min-width:320px) and (max-width: 575.98px) {
+    
+    nav {
+        text-align: center;
+    }
+    .navbar {
+        --bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), 0.0);
+        --bs-navbar-toggler-focus-width: 0.0rem;
+    }
+    nav i {
+        color: #fff;
+        border: none;
+    }
+    nav .nav-item {
+        padding: 15px 0;
+        background: #000;
+    }
+    .banner_part {
+        padding: 142px 0 56px 0;
+    }
+    .banner_part .banner_con h1 {
+        font-size: 20px;
+    }
+    .banner_part .banner_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .feature_part .feature_con_main {
+        padding: 40px 0 40px 0;
+    }
+    .work_part .work_top {
+        display: block;
+    }
+    .work_part .work_con {
+        margin: 5px;
+    }
+    .work_part .work_bottom {
+        display: block;
+    }
+    .team_part {
+        padding: 40px 0;
+    }
+    .team_part .team_con {
+        margin: 20px 0;
+    }
+    .client_part .client_con_main {
+        display: block;
+    }
+    .client_part .client_con_main .left {
+        width: 100%;
+    }
+    .client_part .client_con_main .right {
+        width: 100%;
+    }
+    .client_part .text_slider .text_con {
+        padding: 25px 0 100px 0;
+        text-align: center;
+    }
+    .client_part .text_slider .text_con h2 {
+        font-size: 25px;
+        width: auto;
+    }
+    .client_part .slick-dots {
+        bottom: 20px;
+        left: 44%;
+    }
+    .downlord_part {
+        padding: 40px 0;
+    }
+    .downlord_part .downlord_con .btn a {
+        padding: 5px 10px;
+    }
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    footer .icon_con {
+        margin: 36px 0;
+    }
+    footer .details_con p {
+        width: auto;
+    }
+}
+@media (min-width:576px) and (max-width: 767.98px) {
+    
+    nav {
+        text-align: center;
+    }
+    .navbar {
+        --bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), 0.0);
+        --bs-navbar-toggler-focus-width: 0.0rem;
+    }
+    nav i {
+        color: #fff;
+        border: none;
+    }
+    nav .nav-item {
+        padding: 15px 0;
+        background: #000;
+    }
+    .banner_part {
+        padding: 142px 0 56px 0;
+    }
+    .banner_part .banner_con h1 {
+        font-size: 35px;
+    }
+    .banner_part .banner_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .feature_part .feature_con_main {
+        padding: 40px 0 40px 0;
+    }
+    .feature_part .feature_con h2 {
+        margin: 15px 0 14px 0;
+    }
+    .feature_part .feature_con p {
+        font-size: 15px;
+    }
+    .work_part .work_top {
+        display: block;
+    }
+    .work_part .work_con {
+        margin: 5px;
+    }
+    .work_part .work_bottom {
+        display: block;
+    }
+    .team_part {
+        padding: 40px 0;
+    }
+    .team_part .team_con {
+        margin: 20px 0;
+    }
+    .team_part .team_con .text {
+        text-align: center;
+    }
+    .team_part .team_con .text p {
+        font-size: 12px;
+        width: auto;
+        text-align: center;
+    }
+    .team_part .team_con .icon {
+        text-align: center;
+    }
+    .client_part .text_slider .text_con {
+        padding: 25px 0 22px 14px;
+    }
+    .client_part .text_slider .text_con h2 {
+        font-size: 17px;
+        width: auto;
+    }
+    .client_part .text_slider .text_con p {
+        font-size: 13px;
+        margin: 24px 0 0 0;
+    }
+    .client_part .slick-dots {
+        bottom: 20px;
+        left: 44%;
+    }
+    .downlord_part {
+        padding: 40px 0;
+    }
+    .downlord_part .downlord_con .btn a {
+        padding: 5px 10px;
+    }
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    footer .icon_con {
+        margin: 36px 0;
+    }
+    footer .details_con p {
+        width: auto;
+    }
+}
+@media (min-width:768px) and (max-width: 991.98px) {
+    
+    nav {
+        text-align: center;
+    }
+    .navbar {
+        --bs-navbar-toggler-border-color: rgba(var(--bs-emphasis-color-rgb), 0.0);
+        --bs-navbar-toggler-focus-width: 0.0rem;
+    }
+    nav i {
+        color: #fff;
+        border: none;
+    }
+    nav .nav-item {
+        padding: 15px 0;
+        background: #000;
+    }
+    .banner_part {
+        padding: 142px 0 56px 0;
+    }
+    .banner_part .banner_con h1 {
+        font-size: 48px;
+    }
+    .banner_part .banner_con p {
+        font-size: 15px;
+        width: auto;
+    }
+    .feature_part .feature_con_main {
+        padding: 40px 0 40px 0;
+    }
+    .feature_part .feature_con h2 {
+        margin: 15px 0 14px 0;
+    }
+    .feature_part .feature_con p {
+        font-size: 15px;
+    }
+    .work_part .work_con {
+        margin: 1px;
+    }
+    .work_part .work_con .img .overlay .text {
+        top: 39%;
+    }
+    .team_part {
+        padding: 40px 0;
+    }
+    .team_part .team_con {
+        margin: 20px 0;
+    }
+    .team_part .team_con .text {
+        text-align: center;
+    }
+    .team_part .team_con .text p {
+        font-size: 12px;
+        width: auto;
+        text-align: center;
+    }
+    .team_part .team_con .icon {
+        text-align: center;
+    }
+    .client_part .text_slider .text_con {
+        padding: 18px 0 61px 23px;
+    }
+    .client_part .text_slider .text_con h2 {
+        font-size: 22px;
+        width: auto;
+    }
+    .client_part .text_slider .text_con p {
+        font-size: 13px;
+        margin: 24px 0 0 0;
+    }
+    .client_part .slick-dots {
+        bottom: 10px;
+        left: 44%;
+    }
+    .downlord_part {
+        padding: 40px 0;
+    }
+    .downlord_part .downlord_con .btn a {
+        padding: 5px 10px;
+    }
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    footer .details_con p {
+        width: auto;
+        font-size: 11px;
+    }
+}
+@media (min-width:992px) and (max-width: 1199.98px) {
+    .feature_part .feature_con_main {
+        padding: 40px 0 40px 0;
+    }
+    .feature_part .feature_con h2 {
+        margin: 15px 0 14px 0;
+    }
+    .feature_part .feature_con p {
+        font-size: 15px;
+    }
+    .work_part .work_con {
+        margin: 1px;
+    }
+    .work_part .work_con .img .overlay .text {
+        top: 39%;
+    }
+    .team_part {
+        padding: 40px 0;
+    }
+    .team_part .team_con {
+        margin: 20px 0;
+    }
+    .team_part .team_con .text {
+        text-align: center;
+    }
+    .team_part .team_con .text p {
+        font-size: 12px;
+        width: auto;
+        text-align: center;
+    }
+    .team_part .team_con .icon {
+        text-align: center;
+    }
+    .client_part .text_slider .text_con {
+        padding: 40px 0 62px 23px;
+    }
+    .client_part .text_slider .text_con h2 {
+        font-size: 30px;
+        width: auto;
+    }
+    .client_part .text_slider .text_con p {
+        font-size: 13px;
+        margin: 31px 0 0 0;
+    }
+    .client_part .slick-dots {
+        bottom: 10px;
+        left: 44%;
+    }
+    .downlord_part {
+        padding: 40px 0;
+    }
+    .downlord_part .downlord_con .btn a {
+        padding: 5px 10px;
+    }
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    footer .details_con p {
+        width: auto;
+        font-size: 11px;
+    }
+}
+@media (min-width:1200px) and (max-width: 1400px) {
+    .work_part .work_con {
+        margin: 1px;
+    }
+    .team_part {
+        padding: 40px 0;
+    }
+    .team_part .team_con {
+        margin: 20px 0;
+    }
+    .team_part .team_con .text {
+        text-align: center;
+    }
+    .team_part .team_con .text p {
+        font-size: 12px;
+        width: auto;
+        text-align: center;
+    }
+    .team_part .team_con .icon {
+        text-align: center;
+    }
+    .client_part .text_slider .text_con {
+        padding: 60px 0 86px 50px;
+    }
+    .client_part .text_slider .text_con h2 {
+        font-size: 33px;
+        width: auto;
+    }
+    .client_part .text_slider .text_con p {
+        font-size: 13px;
+        margin: 31px 0 0 0;
+    }
+    .client_part .slick-dots {
+        bottom: 10px;
+        left: 44%;
+    }
+    footer {
+        padding: 40px 0 40px 0;
+    }
+    footer .details_con p {
+        width: auto;
+        font-size: 11px;
+    }
+}
